@@ -1,5 +1,7 @@
 # tl-wr841n-WireGuard
 
+https://openwrt.org/docs/guide-user/services/vpn/wireguard/client
+
 https://forum.openwrt.org/t/build-for-tp-link-tl-wr841n-d-all-versions/428
 
 LEDE Reboot
